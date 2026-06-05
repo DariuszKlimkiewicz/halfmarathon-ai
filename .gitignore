@@ -1,0 +1,17 @@
+# Sekrety
+.env
+Secret Key.docx
+
+
+# Logi
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pliki tymczasowe
+temp_*.csv
